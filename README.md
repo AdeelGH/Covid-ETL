@@ -5,7 +5,7 @@ Scripts should be executed in the following order:
 1. covid-challenge-create-tables
 2. covid-challenge-download
 3. covid-challenge-insert-data
-4. covid-challenge-queries (includes some interesting queries, for example, top 10 countries with the highest number of cases among the top 20 richest countries (by GDP per capita))
+4. covid-challenge-queries (includes some interesting queries, for example, top 10 countries with the highest number of cases among the top 20 richest countries by GDP per capita)
 ![image](https://user-images.githubusercontent.com/30028876/153526822-955be3bc-7587-4195-a7fc-fdb3accd0a58.png)
 
 
